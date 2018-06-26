@@ -1,0 +1,20 @@
+Question,Answer,Response
+where does lion wants to live,Cold place,0
+Does he likes in cold place,Yes,0
+Lion is vegetarian,No,1
+Is the place small,No,0
+Is the place small,Yes,1
+do lion wants big place,Yes,1
+do lion wants big place,No,0
+is current place technological advanced,Yes,1
+Does he think current place is technological advanced,Yes,1
+Is brazil technological advanced,No,1
+where is lion from,Brazil,1
+What does lion likes,Fresh meet,1
+Does lion want fresh meet,Yes,1
+is current place technological advanced,No,0
+Does he think current place is technological advanced,No,0
+Is brazil technological advanced,Yes,0
+where is lion from,Usa,0
+What does lion likes,grass,0
+Does lion want fresh meet,no,0
